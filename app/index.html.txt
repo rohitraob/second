@@ -1,3 +1,2 @@
 index file
-
-Rohit Rao
+First file
